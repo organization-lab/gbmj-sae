@@ -1,5 +1,6 @@
 # repo spectific setting
 .python-version
+*.wsgic
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
